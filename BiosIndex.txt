@@ -1,0 +1,45 @@
+| naomi.zip    | 
+| ------------- |
+| dcnaodev.bios | 
+| epr-21576.ic27| 
+| epr-21576a.ic27| 
+| epr-21576b.ic27| 
+| epr-21576c.ic27| 
+| epr-21576d.ic27| 
+| epr-21576e.ic27| 
+| epr-21576g.ic27| 
+| epr-21576h.ic27|
+| epr-21577a.ic27|
+| epr-21577d.ic27|
+| epr-21577e.ic27|
+| epr-21577g.ic27|
+| epr-21577h.ic27|
+| epr-21578a.ic27|
+| epr-21578a.ic27|
+| epr-21578d.ic27|
+| epr-21578e.ic27|
+| epr-21578g.ic27|
+| epr-21578h.ic27|
+| epr-21579.ic27 |
+| epr-21579d.ic27|
+| main_eeprom.bin|
+| x76f100_eeprom.bin|
+
+| hod2bios.zip    | 
+| ------------- |
+| 315-6146.bin  | 
+| 315-6215.bin  | 
+| epr-21329.ic27| 
+| epr-21330.ic27|
+| epr-21331.ic27|
+| hotd2biosproto.ic27|
+| main_eeprom.bin|
+| sp5001.bin|
+| sp5001-b.bin|
+| sp5002-a.bin|
+| x76f100_eeprom.bin|
+
+| awbios.zip    | 
+| ------------- |
+| bios0.ic23  | 
+| bios1.ic23  | 

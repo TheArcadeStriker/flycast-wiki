@@ -1,5 +1,6 @@
 # flycast-wiki
 Welcome to flycast-wiki!
+![](https://github.com/TheArcadeStriker/flycast-wiki/blob/master/images/flycast-wiki-logo2.png)
 
 This was made in order to provide useful information and guides about using Flycast and its features. Currently it's still on progress, but its going well so far :D
 
